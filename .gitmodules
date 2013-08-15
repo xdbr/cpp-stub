@@ -1,0 +1,3 @@
+[submodule "vendor/lest"]
+	path = vendor/lest
+	url = https://github.com/martinmoene/lest.git
